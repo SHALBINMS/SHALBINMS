@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Shalbin+M+S;Full+Stack+Developer;MERN+Stack+%2B+AI;Open+to+Opportunities" />
+</p>
 # Hi, I'm Shalbin 👋
 
 🎓 Final Year B.Tech CSE & Design Student
