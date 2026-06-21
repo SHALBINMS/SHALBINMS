@@ -32,7 +32,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHALBINMS&show_icons=true)
 
 <p align="center">
-  <img src="coding.mp4" width="500">
+  <img src="./coding.gif" width="700"/>
 </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHALBINMS&layout=compact)
