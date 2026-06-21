@@ -24,6 +24,12 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,git,github,vscode,postman" />
 </p>
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHALBINMS&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHALBINMS&layout=compact)
+
 ### Frontend
 
 HTML, CSS, JavaScript, React, Bootstrap
