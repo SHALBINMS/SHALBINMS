@@ -1,0 +1,48 @@
+# Hi, I'm Shalbin 👋
+
+🎓 Final Year B.Tech CSE & Design Student
+
+💻 Aspiring Full Stack Developer
+
+🚀 Learning MERN Stack, PostgreSQL and AI
+
+📍 Kerala, India
+
+---
+
+## About Me
+
+- Final Year B.Tech Student
+- Learning Full Stack Development
+- Building MERN Projects
+- Interested in AI Applications
+- Preparing for Software Developer Roles
+
+---
+
+## Tech Stack
+
+### Frontend
+
+HTML, CSS, JavaScript, React, Bootstrap
+
+### Backend
+
+Node.js, Express.js
+
+### Databases
+
+MongoDB, PostgreSQL
+
+### Tools
+
+Git, GitHub, VS Code, Postman
+
+---
+
+## Current Focus
+
+- Backend Development
+- Authentication & Authorization
+- PostgreSQL
+- AI Integration
